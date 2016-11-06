@@ -1,2 +1,5 @@
 # hello-world
-a new respository
+
+Humans,
+
+Syphertek is here to learn new techniques
